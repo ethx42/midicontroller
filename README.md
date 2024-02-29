@@ -1,4 +1,4 @@
-# MIDI Controller Project with Teensy 3.6
+# MIDI Controller with Teensy 3.6
 
 This project is designed to work with the [Teensy 3.6 development board](https://www.pjrc.com/store/teensy36.html). The code allows the Teensy to function as a MIDI controller, interfacing with various audio/video software and hardware.
 
