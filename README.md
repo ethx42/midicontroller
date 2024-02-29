@@ -27,6 +27,10 @@ This diagram illustrates how to connect 10 potentiometers of 50 kOhm to the Teen
 - Wires and soldering equipment
 - Arduino IDE or Teensyduino
 
+### Developer
+
+Santiago Torres - [@ethx42](https://github.com/ethx42)
+
 ### Contributing
 
 If you would like to contribute to this project or suggest improvements, please feel free to submit a pull request or open an issue on the project repository.
@@ -34,8 +38,4 @@ If you would like to contribute to this project or suggest improvements, please 
 ### License
 
 This project is open-source and is available under the MIT License. See the LICENSE file for more details.
-
-### Developer
-
-Santiago Torres - [@ethx42](https://github.com/ethx42)
 
